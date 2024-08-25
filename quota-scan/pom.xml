@@ -81,7 +81,7 @@
     <dependency>
       <groupId>org.threeten</groupId>
       <artifactId>threetenbp</artifactId>
-      <version>1.6.2</version>
+      <version>1.6.9</version>
     </dependency>
 
     <!-- The following dependencies are only required for testing -->
